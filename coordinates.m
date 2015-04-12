@@ -80,9 +80,3 @@ end
  
  
 
-% //solve for E (eccentric anomaly) using multiple iterations
-% // arguments:
-% // ec=eccentricity, m=mean anomaly,
-% // dp=number of decimal places
-% //done
-
